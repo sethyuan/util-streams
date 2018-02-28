@@ -1,6 +1,6 @@
 {
   "name": "util-streams",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Various Node.js streams I use",
   "main": "lib/index.js",
   "repository": "https://github.com/sethyuan/util-streams.git",
