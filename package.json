@@ -1,6 +1,6 @@
 {
   "name": "util-streams",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Various Node.js streams I use",
   "main": "lib/index.js",
   "repository": "https://github.com/sethyuan/util-streams.git",
@@ -21,8 +21,8 @@
     "eslint": "^4.18.1",
     "eslint-config-prettier": "^2.9.0",
     "eslint_d": "^5.2.2",
-    "husky": "^0.14.3",
-    "lint-staged": "^7.0.0",
-    "prettier": "^1.11.0"
+    "husky": "^1.2.0",
+    "lint-staged": "^8.1.0",
+    "prettier": "^1.15.3"
   }
 }
